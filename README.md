@@ -28,3 +28,9 @@ This repository contains short and minor projects that were built while learning
   # Command to use existing embeddings for a new query 
   python prompt.py
 ```
+
+- Project 4: Ecommerce App based Q/A System
+
+```bash
+  python main.py
+```

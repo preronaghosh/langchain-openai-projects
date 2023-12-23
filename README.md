@@ -22,5 +22,9 @@ This repository contains short and minor projects that were built while learning
 - Project 3: Facts based QA System
 
 ```bash
-  python factsSearch.py
+  cd factsSearchProject 
+  # Running the following command multiple times will create duplicate embeddings inside vectore store
+  python main.py
+  # Command to use existing embeddings for a new query 
+  python prompt.py
 ```

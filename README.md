@@ -32,5 +32,6 @@ This repository contains short and minor projects that were built while learning
 - Project 4: Ecommerce App based Q/A System
 
 ```bash
+  cd ecommerce-agents 
   python main.py
 ```

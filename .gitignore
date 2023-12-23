@@ -1,2 +1,9 @@
 .env
 OldMessages.json
+
+factsSearchProject/__pycache__/
+factsSearchProject/emb/
+
+factsSearchProject/scores.ipynb
+factsSearchProject/.env
+agents/.env

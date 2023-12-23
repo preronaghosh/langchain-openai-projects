@@ -6,4 +6,8 @@ factsSearchProject/emb/
 
 factsSearchProject/scores.ipynb
 factsSearchProject/.env
-agents/.env
+
+ecommerce-agents/.env
+ecommerce-agents/__pycache__/
+ecommerce-agents/tools/__pycache__/
+ecommerce-agents/handlers/__pycache__/
